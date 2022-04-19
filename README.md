@@ -1,18 +1,4 @@
-﻿
 
-**Particle swarm optimization Algorithm**
-
-**Instructor: Samer El Zant**
-
-**Group:**
-
-**Gurbanzade Orkhan**
-
-**Murshudov Ramiz**
-
-**Imamverdiyev Yusif**
-
-**Project Work Date: 18/12/2021**
 
 **Introduction**
 
@@ -101,7 +87,6 @@ To construct gradient-based PSO algorithms, the ability of the PSO algorithm to 
 many local minimums can be combined with the ability of gradient-based local search algorithms
 
 to effectively calculate an accurate local minimum.
-
 The PSO algorithm is used in gradient-based PSO algorithms to explore several local minima and
 
 discover a location in the basin of attraction of a deep local minimum. The deep local minimum is
@@ -128,7 +113,11 @@ This may be the most important slide of this presentation, for it summarizes the
 
 method.
 
-\1. Use Case Diagram
+**1. Use Case Diagram**
+
+![image](https://user-images.githubusercontent.com/99141535/163899697-382aef0e-4e33-4ed8-8cf7-e4c58f1fda0d.png)
+
+</br>
 
 Diagram 1
 
@@ -155,7 +144,9 @@ based on their position and velocity.
 **2. Sequence Diagram**
 
 
+![image](https://user-images.githubusercontent.com/99141535/163899712-730c4819-9c87-40b1-85a3-248d4a7f83cd.png)
 
+</br>
 
 
 Diagram 2
@@ -173,6 +164,13 @@ shown. As previously stated, the idea underpinning particle swarm optimization w
 majority of the activities.
 
 **3. Class Diagram**
+
+
+![image](https://user-images.githubusercontent.com/99141535/163899733-d4bf523a-e1ec-4562-a1e6-231904ea5408.png)
+
+
+</br>
+
 
 Diagram 3
 
@@ -193,6 +191,13 @@ of this optimization process, as we've already mentioned, is FunctionMinimizingP
 depicted in this class diagram. As may be seen in the class diagram.
 
 **Implementation**
+
+
+![image](https://user-images.githubusercontent.com/99141535/163899739-58770e60-ea01-4502-af86-ddee358b3b5f.png)
+
+
+</br>
+
 
 After watching a lot of Indian guys' PSO algorithm implementations, we finally wrote our
 
@@ -254,13 +259,9 @@ https://towardsdatascience.com/particle-swarm-optimization-visually-explained-46
 
 https://www.geeksforgeeks.org/implementation-of-particle-swarm-optimization/
 
-https://www.researchgate.net/publication/3903911\_Particle\_swarm\_optimization\_Development\_
+https://www.researchgate.net/publication/3903911\_Particle\_swarm\_optimization\_Development\_applications\_and\_resources
 
-applications\_and\_resources
-
-https://www.researchgate.net/publication/3810335\_Empirical\_Study\_of\_Particle\_Swarm\_Optimiz
-
-ation
+https://www.researchgate.net/publication/3810335\_Empirical\_Study\_of\_Particle\_Swarm\_Optimization
 
 https://www.hindawi.com/journals/mpe/2021/5574501/
 
